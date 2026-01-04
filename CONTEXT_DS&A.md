@@ -4,9 +4,9 @@
 
 - **Âge** : 17 ans, 6ème secondaire, Liège (Belgique)
 - **Objectif** : Bachelier Sciences Informatiques ULiège (sept 2025) → Master Data Science & AI
-- **Niveau Python** : Intermédiaire/Avancé
+- **Niveau Python** : Intermédiaire
 - **Niveau ML/DL** : Projets terminés (CNN PyTorch 98.28% MNIST, NLP sentiment 96.74%, LSTM, détecteur émotions webcam)
-- **Niveau DS&A** : Débutant (démarrage janvier 2025)
+- **Niveau DS&A** : Débutant (démarrage janvier 2026)
 
 ## Préférences pédagogiques CRITIQUES
 
@@ -16,7 +16,7 @@
 ✅ Encourager la réflexion autonome  
 ❌ Éviter le guidage trop directif ou le micro-management
 
-## Plan stratégique (janvier-août 2025)
+## Plan stratégique (janvier-août 2026)
 
 ### Phase 1 : Fondations (jan-fév)
 
@@ -45,8 +45,9 @@
 
 ## Ressources actives
 
-- 📘 **Grokking Algorithms** (Aditya Bhargava) - arrivé jeudi 9 janvier
-- 🎥 **freeCodeCamp** "Data Structures and Algorithms in Python"
+- 📘 **Grokking Algorithms** (Aditya Bhargava) - arrivé jeudi 8 janvier
+- 🎥 **Bro Code** "
+  Data Structures and Algorithms Full Course 📈"
 - 💻 **LeetCode** (compte actif)
 
 ## Contexte historique ML/DL
