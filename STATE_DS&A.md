@@ -30,7 +30,7 @@ _(aucun pour l'instant)_
 
 ## Prochains objectifs (cette semaine)
 
-- [ ] Regarder les 4h de vidéo Bro Code
-- [ ] Coder les exemples de la vidéo
+- [ ] Regarder les vidéos
+- [ ] faire les exercices intéractifs
 - [ ] Recevoir Grokking Algorithms (jeudi)
 - [ ] Résoudre Two Sum (après vidéo)

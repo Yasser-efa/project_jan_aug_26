@@ -20,7 +20,7 @@
 
 ### Phase 1 : Fondations (jan-fév)
 
-- Vidéo freeCodeCamp "Data Structures and Algorithms in Python - Full Course"
+- Série de vidéos interactives (quelques problèmes LeetCode) de Greg Hogg 
 - Livre "Grokking Algorithms" (Aditya Bhargava) chapitres 1-11
 - LeetCode Easy : 15-25 problèmes (focus arrays, hashmaps, recursion)
 - **Objectif** : Bases solides avant la rentrée universitaire
@@ -46,8 +46,7 @@
 ## Ressources actives
 
 - 📘 **Grokking Algorithms** (Aditya Bhargava) - arrivé jeudi 8 janvier
-- 🎥 **Bro Code** "
-  Data Structures and Algorithms Full Course 📈"
+- 🎥 **Greg Hogg** - Série de vidéos interactives (quelques problèmes LeetCode)
 - 💻 **LeetCode** (compte actif)
 
 ## Contexte historique ML/DL
