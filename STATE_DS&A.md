@@ -13,20 +13,27 @@ _Mise à jour : 4 janvier 2025_
 - [ ] LeetCode : 0 problèmes résolus
 
 ## Concepts maîtrisés ✅
-
-_(vide pour l'instant)_
+- HashMap: counting pattern (compter occurrences)
 
 ## Concepts en apprentissage 🔄
-
-Binairy Search
+- HashMap: autres patterns (two sum, etc.)
 
 ## Blocages ❌
 
 _(aucun pour l'instant)_
 
 ## Historique LeetCode
+1. Valid Anagram (Easy) 242 - ✅ Résolu - HashMap counting pattern
+   Difficulté ressentie: [moyen/dur]
+   Pattern appris: Counting avec HashMap
 
-_(aucun pour l'instant)_
+2. find Closest To Zero 2239 - ✅ Résolu - array abs min
+   Difficulté ressentie: [moyen]
+   Pattern appris: manipuler abs, min
+
+2. merge Strings Alternately - ✅ Résolu - array
+   Difficulté ressentie: [moyen]
+   Pattern appris: manipuler les strings dans des array
 
 ## Prochains objectifs (cette semaine)
 
